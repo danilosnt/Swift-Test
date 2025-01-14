@@ -6,4 +6,7 @@
 //
 
 import Foundation
-print("Hello, World!")
+
+var nome = "Danilo"
+
+print(nome)
